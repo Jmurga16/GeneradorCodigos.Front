@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/958c2a3d-b297-4de6-8f48-9fd298992069/resourceGroups/PagoEfectivoResource/providers/Microsoft.Web/sites/pagoefectivo",
+    "appService.deploySubpath": "dist/app-pago-efectivo-front"
+}
