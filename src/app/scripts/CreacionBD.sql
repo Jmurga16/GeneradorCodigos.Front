@@ -1,0 +1,2 @@
+CREATE DATABASE DB_PagoEfectivo
+GO
