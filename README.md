@@ -4,7 +4,7 @@
 2. Clonar en Visual Studio Code.
 3. Abrir consola del visual studio.
 4. Ejecutar el comando "npm i" o "npm i --legacy-peer-deps" (si tiene otra versión de node).
-5. Ejecutar el comando "ng serve"
+5. Ejecutar el comando "ng serve --o"
 6. Abrir la pagina http://localhost:4200/
 
 Proyecto generado en Angular CLI version 13.
